@@ -1,4 +1,4 @@
-# COM212_Project2
+# Edit History Manager
 
 ### Introduction:
 This project's goal was to create a command history manger utilizing arrays and two different types of ADTs (stacks and dequeues). The project allows the user to input a 
